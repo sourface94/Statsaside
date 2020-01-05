@@ -1,0 +1,15 @@
+ % 1. Title: Football Action Database
+   % 
+   % 2. Sources:
+   %      (a) Creator: A.Joseph & N. Francis
+   %      
+   % 
+   @RELATION Action
+   @ATTRIBUTE position_1(1)  NUMERIC
+   @ATTRIBUTE position_1(2)  NUMERIC
+   @ATTRIBUTE position_1(3)  NUMERIC
+   @ATTRIBUTE class        {pass,tackle,dribble,inaccurate-pass}
+   
+   @data
+   
+   
