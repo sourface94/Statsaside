@@ -1,0 +1,2 @@
+# Statsaside
+Application that uses deep learning techniques such a CNN and random forest to classify actions such as passes and dribbles in a football match. The application was targeted towards small-sided football matches and is the first application to do so. The application uses ‘tags’ to track the location of the players and then feeds these to deep learning techniques to classify the actions.
